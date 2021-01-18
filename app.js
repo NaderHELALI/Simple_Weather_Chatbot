@@ -43,7 +43,7 @@ rl.on('line', reply =>{
                     break;
                               }
       case 'Exit':
-                    {console.log("Understandable, Have a Great Day!");
+                    {console.log("Have a Great Day!");
                     process.exit();
                     break;
                               }
